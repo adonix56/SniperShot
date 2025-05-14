@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: d71d0b0ca89b43645969c710a7eb2e60
+  productGUID: 424c66688b7ab5042b491d8bc99bc94c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My projecttestestst
+  productName: SniperShot
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -916,14 +916,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My projecttestestst
+  metroPackageName: SniperShot
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: My projecttestestst
+  metroApplicationDescription: SniperShot
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -995,10 +995,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 18247715-3737-4850-b7c4-d2f37202ecbd
+  cloudProjectId: 57cb3eaf-3ff0-461d-b5cd-1447e110ade0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My projecttestestst
+  projectName: SniperShot
   organizationId: adonix56
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
